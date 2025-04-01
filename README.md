@@ -136,13 +136,7 @@ I was able to recommend 10 regions for the wine promotion rollout based on data-
 4. **Review Insights**: Explore findings in Power BI.
 5. **Publish Report**: Share the Power BI report for further review.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 I hope you find this project documentation helpful! Feel free to reach out if you have any questions or suggestions.
 
-Happy analyzing!
 
